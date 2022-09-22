@@ -2,7 +2,7 @@
 
     font-family: 'Permanent Marker', cursive; */
 body {
-    background: #e8e8e8;
+    background: #ebebeb;
 }
 #vision-board {
     background: url(../img/background.png);
@@ -36,14 +36,14 @@ body {
     text-align: right;
 }
 .light-bg {
-    background: #ffffff;
+    background: #e0ffff;
 }
 .dark-bg {
     color: #ffffff;
-    background: #3b3b3b;
+    background: #808080;
 }
 .highlight {
-    background: #fff4af;
+    background: #54ff9f;
     font-size: 18px;
     padding: 5px 15px;
 }
